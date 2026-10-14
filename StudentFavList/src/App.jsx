@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
-import { StudentProvider, useStudents } from "./StudentContext";
+import { StudentProvider, useStudents } from "./studentContext";
 import "./index.css";
 
 function StudentList() {
